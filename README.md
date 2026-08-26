@@ -2,12 +2,18 @@
 
 ## Project Description
 
-The Student Marks Management System is a Java console-based application
-used to manage student details and marks.
+The Student Marks Management System is a Java-based console application
+used to store and manage student details and marks.
 
 The system allows users to add students, enter marks for five subjects,
-calculate total and average marks, determine grades, search students,
-find the top scorer, and calculate the class average.
+calculate total and average marks, determine grades, find the highest and
+lowest marks, search students by name, identify the top scorer, and
+calculate the class average.
+
+The project uses Java methods, arrays, 2D arrays, loops, conditional
+statements, strings, and input validation.
+
+---
 
 ## Features
 
@@ -23,13 +29,16 @@ find the top scorer, and calculate the class average.
 - Search Student by Name
 - Display Top Scorer
 - Display Class Average
-- Input Validation
+- Validate Student Age
+- Validate Subject Marks
 - Menu-Driven Interface
+
+---
 
 ## Technologies Used
 
 - Java
-- Scanner
+- Java Scanner
 - Arrays
 - 2D Arrays
 - Methods
@@ -40,9 +49,39 @@ find the top scorer, and calculate the class average.
 - GitHub
 - Visual Studio Code
 
+---
+
+## Concepts Used
+
+### Methods
+- Static methods
+- Method calling
+- Parameters
+- Return types
+- Void methods
+
+### Arrays
+- 1D arrays
+- 2D arrays
+- Array traversal
+- Passing arrays to methods
+
+### Strings
+- String class
+- String methods
+- Case-insensitive comparison
+
+### Control Statements
+- if-else
+- switch
+- for loop
+- while loop
+
+---
+
 ## How to Run
 
-Compile the program:
+### Step 1: Clone the repository
 
 ```bash
-javac StudentMarksManagement.java
+git clone YOUR_GITHUB_REPOSITORY_URL
