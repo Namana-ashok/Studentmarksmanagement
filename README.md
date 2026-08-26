@@ -84,4 +84,4 @@ statements, strings, and input validation.
 ### Step 1: Clone the repository
 
 ```bas
-git clone https://github.com/Namana-ashok/Studentmarksmanagement.git
+ https://github.com/Namana-ashok/Studentmarksmanagement.git
