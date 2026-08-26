@@ -206,7 +206,7 @@ public class Studentmarksmanagement {
         sc.nextLine();
 
         System.out.print("Enter student name to search: ");
-        String searchName = sc.nextLine();
+        String searchName = sc.nextLine().trim();
 
         boolean found = false;
 
