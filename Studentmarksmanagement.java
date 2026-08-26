@@ -245,6 +245,7 @@ public class Studentmarksmanagement {
         }
 
         System.out.println("\n========== TOP SCORER ==========");
+        System.out.println("Top scorer based on total marks");
 
         System.out.println("Name    : " + names[topStudent]);
         System.out.println("Total   : " + calculateTotal(topStudent));
