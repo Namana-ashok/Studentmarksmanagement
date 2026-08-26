@@ -61,7 +61,7 @@ public class Studentmarksmanagement {
                 sc.next();
             }
 
-            System.out.println("Invalid age! Enter age between 1 and 100.");
+            System.out.println("Invalid age! Please enter age between 1 and 100.");
         }
     }
 
@@ -83,7 +83,7 @@ public class Studentmarksmanagement {
                 sc.next();
             }
 
-            System.out.println("Invalid mark! Enter marks between 0 and 100.");
+            System.out.println("Invalid mark! Please enter marks between 0 and 100.");
         }
     }
 
